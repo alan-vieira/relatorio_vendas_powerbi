@@ -1,4 +1,4 @@
-# relatorio_vendas_powerbi Relatório de Vendas no Power BI
+# Relatório de Vendas no Power BI
 ## Descrição do projeto
 Relatório de vendas no Power BI para atender o desafio da DIO
 
